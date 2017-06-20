@@ -13,4 +13,4 @@ The data attributes from the advertising dataset is given below:
 * 'Timestamp': Time at which consumer clicked on Ad or closed window
 * 'Clicked on Ad': 0 or 1 indicated clicking on Ad
 
-# Just download the 
+# Logistic_regr_ad_data ipython notebook file has the code to import the dataset and create the model for predicting. 
