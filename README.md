@@ -12,3 +12,5 @@ The data attributes from the advertising dataset is given below:
 * 'Country': Country of consumer
 * 'Timestamp': Time at which consumer clicked on Ad or closed window
 * 'Clicked on Ad': 0 or 1 indicated clicking on Ad
+
+# Just download the 
